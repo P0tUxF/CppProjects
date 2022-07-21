@@ -1,6 +1,6 @@
 # Projects
 
-Contains 2 projects:
+Contains 3 projects:
 
 A blogging webapp
 
