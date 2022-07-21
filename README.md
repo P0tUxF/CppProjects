@@ -1,4 +1,4 @@
-# CppProjects
+# Projects
 
 Contains 2 projects:
 
